@@ -2,14 +2,12 @@ body
 {
     color: rgb(0, 0, 0);
     text-align: center;
-<<<<<<< HEAD
-    font-family: 'Times New Roman', Times, serif;
-=======
+
     font-family: "Arial";
     font-size: 16px;
     margin: 0;
     padding: 0;
->>>>>>> cabecera
+ 
 }
 #cabecera{
     background: rgb(32, 55, 172);
